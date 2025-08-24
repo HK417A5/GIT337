@@ -1,0 +1,12 @@
+:root{
+    --purple:  #8857F2;
+}
+
+
+h1{
+    text-decoration: solid underline var(--purple) 4px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    text-align: center;
+}
+
+
